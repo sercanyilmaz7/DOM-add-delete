@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 1.2rem;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: aqua;
+}
+
+
+#div1{
+    margin: 2rem;
+    margin-top: 10rem;
+
+}
+#div1 input{
+    margin-right: 1rem;
+    font-size: 1.5rem;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+#div2 input{
+    width: 20rem;
+    height: 2rem;
+    
+}
